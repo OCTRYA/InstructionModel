@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-okt-2018, 20:53:25
+    Author     : octrya
+*/
+body{font-family: "verdana"}
+label{font-size: 1.2em}
+#front{background-image: url("./images/bg.jpg")}
+#loginContainer{margin-left:auto; margin-right:auto;background-color: rgba(0, 0, 0, .4); max-width: 450px; border:2px dotted darkmagenta; padding:10px}
+
+
+.label{text-align: right;}
+.btn-link {color:white}
